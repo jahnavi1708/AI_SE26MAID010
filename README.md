@@ -36,6 +36,8 @@ Make sure your project workspace contains your dataset inside Data/raw/ or the p
 
 2. Install Required Dependencies
 Run the following command in your terminal to install the necessary Python libraries:
+
+```bash
 pip install streamlit pandas numpy langchain langchain-experimental langchain-groq
 
 Configure API Key
@@ -48,17 +50,17 @@ How to Run the Application
 Step 1: Preprocess the Raw Dataset
 Clean and pivot your raw CSV file into the processed directory:
 
-Bash
+```bash
 python Preprocessing.py
 Step 2: Run Data Analysis & Generate Summaries
 Compute calculated AQI scores, category buckets, and summary CSVs into the outputs/ folder:
 
-Bash
+```bash
 python DataAnalysis.py
 Step 3: Launch the Streamlit Web Application
 Start the interactive dashboard and AI chat analyst:
 
-Bash
+```bash
 streamlit run app.py
 
 Sample Queries You Can Ask the AI Agent
