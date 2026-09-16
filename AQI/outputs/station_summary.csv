@@ -1,0 +1,513 @@
+station,Record_Count,Mean_AQI,Max_AQI,AQI_Bucket
+"15th Mile-Nongthymmai, Byrnihat -Meghalaya PCB",1,3.0,3.0,Good
+"32Bungalows, Bhilai - CECB",1,20.0,20.0,Good
+"AIIMS, Raipur - CECB",1,22.0,22.0,Good
+"Adarsh Nagar, Jaipur - RSPCB",1,45.0,45.0,Moderate
+"Airport Area, Indore - IMC",1,46.0,46.0,Moderate
+"Ambazari, Nagpur - MPCB",1,42.0,42.0,Good
+"Ambedkar Nagar, Nellore - APPCB",1,59.0,59.0,Moderate
+"Amity University, Panchgaon - IITM",1,92.0,92.0,Severe
+"Anand Kala Kshetram, Rajamahendravaram - APPCB",1,61.0,61.0,Moderate
+"Anand Nagar, Raebareli - UPPCB",1,78.0,78.0,Poor
+"Anand Vihar, Delhi - DPCC",1,71.0,71.0,Poor
+"Anand Vihar, Hapur - UPPCB",1,34.0,34.0,Good
+"Anthoni Pillai Nagar, Gummidipoondi - TNPCB",1,99.0,99.0,Severe
+"Ardhali Bazar, Varanasi - UPPCB",1,59.0,59.0,Moderate
+"Arumbakkam, Chennai - TNPCB",1,74.0,74.0,Poor
+"Arya Nagar, Bahadurgarh - HSPCB",1,38.0,38.0,Good
+"Asansol Court Area, Asansol - WBPCB",1,48.0,48.0,Moderate
+"Ashok Nagar, Udaipur - RSPCB",1,86.0,86.0,Poor
+"Ashok Vihar, Delhi - DPCC",1,106.0,106.0,Severe
+"Ashta Vinayak Nagar, Hingoli - MPCB",1,58.0,58.0,Moderate
+"Aya Nagar, Delhi - IITM",1,36.0,36.0,Good
+"B R Ambedkar University, Lucknow - UPPCB",1,31.0,31.0,Good
+"Ballygunge, Kolkata - WBPCB",1,53.0,53.0,Moderate
+"Bamboliya, Baran - RSPCB",1,37.0,37.0,Good
+"Bandhavgar Colony, Satna - Birla Cement",1,70.0,70.0,Poor
+"Bandra Kurla Complex, Mumbai - IITM",1,58.0,58.0,Moderate
+"Bandra Kurla Complex, Mumbai - MPCB",1,38.0,38.0,Good
+"Bapuji Nagar, Bengaluru - KSPCB",1,43.0,43.0,Good
+"Bapunagar, Vadodara - Nexteng Enviro",1,77.0,77.0,Poor
+"Bardowali, Agartala - Tripura SPCB",1,95.0,95.0,Severe
+"Barsua Iron Ore Mines, Tensa - OSPCB",1,40.0,40.0,Good
+"Bata Chowk, Nalbari - PCBA",1,32.0,32.0,Good
+"Bawana, Delhi - DPCC",1,48.0,48.0,Moderate
+"Belur Math, Howrah - WBPCB",1,75.0,75.0,Poor
+"Bhatagaon New ISBT, Raipur - CECB",1,27.0,27.0,Good
+"Bhayandar West, Mira-Bhayandar - MPCB",1,35.0,35.0,Good
+"Bhelupur, Varanasi - UPPCB",1,112.0,112.0,Severe
+"Bhoiwada, Dungarpur - RSPCB",1,67.0,67.0,Poor
+"Bhopal Chauraha, Dewas - MPPCB",1,56.0,56.0,Moderate
+"Bhosari, Pune - IITM",1,59.0,59.0,Moderate
+"Bhumkar Nagar, Pune - IITM",1,59.0,59.0,Moderate
+"Bidhannagar, Kolkata - WBPCB",1,43.0,43.0,Good
+"Bir, Beed - MPCB",1,33.0,33.0,Good
+"Bolinj, Virar - MPCB",1,37.0,37.0,Good
+"Bollaram Industrial Area, Hyderabad - TSPCB",1,64.0,64.0,Poor
+"Borivali East, Mumbai - IITM",1,29.0,29.0,Good
+"Borivali East, Mumbai - MPCB",1,27.0,27.0,Good
+"Botanical Garden, Howrah - WBPCB",1,99.0,99.0,Severe
+"Buddha Colony, Muzaffarpur - BSPCB",1,53.0,53.0,Moderate
+"Buddhi Vihar, Moradabad - UPPCB",1,44.0,44.0,Moderate
+"Burari Crossing, Delhi - IITM",1,37.0,37.0,Good
+"Byculla, Mumbai - BMC",1,41.0,41.0,Good
+"CBD Belapur, Belapur - MPCB",1,46.0,46.0,Moderate
+"CDA Area, Cuttack - OSPCB",1,58.0,58.0,Moderate
+"CRRI Mathura Road, Delhi - IITM",1,45.0,45.0,Moderate
+"Cantonment Area, Delhi - DPCC",1,53.0,53.0,Moderate
+"Central Academy for SFS, Byrnihat - PCBA",1,102.0,102.0,Severe
+"Central University, Hyderabad - TSPCB",1,20.0,20.0,Good
+"Chakala-Andheri East, Mumbai - IITM",1,38.0,38.0,Good
+"Chandkheda, Ahmedabad - IITM",1,82.0,82.0,Poor
+"Chandni Chowk, Delhi - IITM",1,95.0,95.0,Severe
+"Chauhan Colony, Chandrapur - MPCB",1,69.0,69.0,Poor
+"Chembur, Mumbai - MPCB",1,28.0,28.0,Good
+"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",1,27.0,27.0,Good
+"Chhoti Gwaltoli, Indore - MPPCB",1,66.0,66.0,Poor
+"Chikkaballapur Rural, Chikkaballapur - KSPCB",1,54.0,54.0,Moderate
+"Chinchpada, Ambernath - MPCB",1,73.0,73.0,Poor
+"Chinna Bharatham Colony, Srikakulam - APPCB",1,70.0,70.0,Poor
+"Chitragupta Nagar, Siwan - BSPCB",1,103.0,103.0,Severe
+"Christianpatty, Nagaon - PCBA",1,66.0,66.0,Poor
+"City Center, Gwalior - MPPCB",1,51.0,51.0,Moderate
+"City Railway Station, Bengaluru - KSPCB",1,100.0,100.0,Severe
+"Civic Center, Bhilai - Bhilai Steel Plant",1,20.0,20.0,Good
+"Civil Line, Jalandhar - PPCB",1,60.0,60.0,Moderate
+"Civil Lines,  Ajmer - RSPCB",1,63.0,63.0,Moderate
+"Civil Lines, Bareilly - UPPCB",1,32.0,32.0,Good
+"Civil Lines, Sagar - MPPCB",1,26.0,26.0,Good
+"Collector Office, Yadgir - KSPCB",1,39.0,39.0,Good
+"Collectorate, Gaya - BSPCB",1,28.0,28.0,Good
+"Collectorate, Jodhpur - RSPCB",1,80.0,80.0,Poor
+"Commonwealth Sports Complex, Delhi - DPCC",1,69.0,69.0,Poor
+"Corporation Ground, Thrissur - Kerala PCB",1,52.0,52.0,Moderate
+"D M Colony, Bihar Sharif - BSPCB",1,33.0,33.0,Good
+"DM Office_Kachari Chowk, Bhagalpur - BSPCB",1,182.0,182.0,Severe
+"DM Office_Kasipur, Samastipur - BSPCB",1,47.0,47.0,Moderate
+"DRM Office Danapur, Patna - BSPCB",1,45.0,45.0,Moderate
+"DTU, Delhi - CPCB",1,34.0,34.0,Good
+"Dabuna, Nayagarh - OSPCB",1,49.0,49.0,Moderate
+"Dada Peer, Sasaram - BSPCB",1,36.0,36.0,Good
+"Dadupura, Fatehpur Sikri - UPPCB",1,24.0,24.0,Good
+"Dangi Tola, Rajgir - BSPCB",1,43.0,43.0,Good
+"Darshan Nagar, Chhapra - BSPCB",1,112.0,112.0,Severe
+"Dasnagar, Howrah - WBPCB",1,92.0,92.0,Severe
+"Deen Dayal Nagar, Gwalior - MPPCB",1,73.0,73.0,Poor
+"Deonar, Mumbai - IITM",1,42.0,42.0,Good
+"Deopur, Dhule - MPCB",1,20.0,20.0,Good
+"Dhankawadi, Pune - IITM",1,50.0,50.0,Moderate
+"Dhanmandi, Kota - RSPCB",1,53.0,53.0,Moderate
+"Dhoinda, Rajsamand - RSPCB",1,72.0,72.0,Poor
+"Digari Kalan, Jodhpur - RSPCB",1,56.0,56.0,Moderate
+"District Court, Eluru - APPCB",1,53.0,53.0,Moderate
+"Divisional Forest Office, Rairangpur - OSPCB",1,65.0,65.0,Poor
+"Dnyaneshwar Nagar, Solapur - MPCB",1,41.0,41.0,Good
+"Doon University, Dehradun - UKPCB",1,44.0,44.0,Moderate
+"Dr. Karni Singh Shooting Range, Delhi - DPCC",1,37.0,37.0,Good
+"Dwarka-Sector 8, Delhi - DPCC",1,30.0,30.0,Good
+"ECIL Kapra, Hyderabad - TSPCB",1,62.0,62.0,Moderate
+"Eco Herbal Park, Moradabad - UPPCB",1,37.0,37.0,Good
+"Employment Office, Moradabad - UPPCB",1,46.0,46.0,Moderate
+"Evelyn Lodge, Asansol - WBPCB",1,78.0,78.0,Poor
+"F-Block, Sirsa - HSPCB",1,84.0,84.0,Poor
+"FTI Kidwai Nagar, Kanpur - UPPCB",1,39.0,39.0,Good
+"Ferro Chrome Colony, Byasanagar - OSPCB",1,68.0,68.0,Poor
+"Fertilizer Township, Rourkela - OSPCB",1,43.0,43.0,Good
+"Forest Office, Barbil - OSPCB",1,63.0,63.0,Moderate
+"Forest Rest House, Manguraha - BSPCB",1,89.0,89.0,Poor
+"Fort William, Kolkata - WBPCB",1,72.0,72.0,Poor
+"GIDC, Ankleshwar - GPCB",1,68.0,68.0,Poor
+"GIDC, Nandesari - Nandesari Ind. Association",1,51.0,51.0,Moderate
+"GIFT City, Gandhinagar - IITM",1,77.0,77.0,Poor
+"GM Office, Brajrajnagar - OSPCB",1,90.0,90.0,Poor
+"GVM Corporation, Visakhapatnam - APPCB",1,94.0,94.0,Severe
+"Gandak Colony, Motihari - BSPCB",1,50.0,50.0,Moderate
+"Ganga Nagar, Meerut - UPPCB",1,43.0,43.0,Good
+"Gangapur Road, Nashik - MPCB",1,30.0,30.0,Good
+"Gangineni Cheruvu, Chittoor - APPCB",1,35.0,35.0,Good
+"Gavalinagar, Pimpri Chinchwad - MPCB",1,31.0,31.0,Good
+"General Hospital, Mandikhera(Nuh) - HSPCB",1,48.0,48.0,Moderate
+"Ghatkopar, Mumbai - BMC",1,37.0,37.0,Good
+"Ghusuri, Howrah - WBPCB",1,110.0,110.0,Severe
+"Girls College, Sivasagar - PCBA",1,41.0,41.0,Good
+"Gobind Pura, Yamuna Nagar - HSPCB",1,87.0,87.0,Poor
+"Gokul Nagar, Bhiwandi - MPCB",1,46.0,46.0,Moderate
+"Golden Temple, Amritsar - PPCB",1,97.0,97.0,Severe
+"Gole Bazar, Katni - MPPCB",1,34.0,34.0,Good
+"Gomti Nagar, Lucknow - UPPCB",1,43.0,43.0,Good
+"Govindh Bhavan Colony, Jabalpur - JMC",1,64.0,64.0,Poor
+"Govindpuram, Ghaziabad - UPPCB",1,48.0,48.0,Moderate
+"Govt. Girls Inter College, Kashipur - UKPCB",1,10.0,10.0,Good
+"Govt. High School Shikarpur, Patna - BSPCB",1,83.0,83.0,Poor
+"Govt. Higher Secondary School, Milupara - CECB",1,37.0,37.0,Good
+"Gulzarpet, Anantapur - APPCB",1,70.0,70.0,Poor
+"Gyaspur, Ahmedabad - IITM",1,94.0,94.0,Severe
+"H.B. Colony, Bhiwani - HSPCB",1,45.0,45.0,Moderate
+"HB Colony, Vijayawada - APPCB",1,54.0,54.0,Moderate
+"HIMUDA Complex Phase-1, Baddi - HPPCB",1,112.0,112.0,Severe
+"Hadapsar, Pune - IITM",1,71.0,71.0,Poor
+"Hakimapada, Angul - OSPCB",1,78.0,78.0,Poor
+"Hardev Nagar, Bathinda - PPCB",1,34.0,34.0,Good
+"Hathkhoj, Bhilai - CECB",1,26.0,26.0,Good
+"Hebbal 1st Stage, Mysuru - KSPCB",1,63.0,63.0,Moderate
+"Hebbal, Bengaluru - KSPCB",1,32.0,32.0,Good
+"Hirawadi, Nashik - MPCB",1,45.0,45.0,Moderate
+"Hombegowda Nagar, Bengaluru - KSPCB",1,49.0,49.0,Moderate
+"Housing Board, Hanumangarh - RSPCB",1,65.0,65.0,Poor
+"Huda Sector, Fatehabad - HSPCB",1,56.0,56.0,Moderate
+"ICRISAT Patancheru, Hyderabad - TSPCB",1,84.0,84.0,Poor
+"IDA Pashamylaram, Hyderabad - TSPCB",1,64.0,64.0,Poor
+"IESD Banaras Hindu University, Varanasi - UPPCB",1,31.0,31.0,Good
+"IGNOU_Maidan Garhi, Delhi - DPCC",1,59.0,59.0,Moderate
+"IHBAS, Dilshad Garden, Delhi - CPCB",1,49.0,49.0,Moderate
+"IIPHG Lekawada, Gandhinagar - IITM",1,65.0,65.0,Poor
+"IIT Delhi, Delhi - IITM",1,59.0,59.0,Moderate
+"IITG, Guwahati - PCBA",1,74.0,74.0,Poor
+"IITH Kandi, Hyderabad - TSPCB",1,71.0,71.0,Poor
+"IMD Lodhi Road, Delhi - IITM",1,40.0,40.0,Good
+"ITO, Delhi - CPCB",1,62.0,62.0,Moderate
+"Ibrahimpur, Vijayapura - KSPCB",1,43.0,43.0,Good
+"Idgah Hills, Bhopal - MPPCB",1,18.0,18.0,Good
+"Indira Colony Vistar, Pali - RSPCB",1,108.0,108.0,Severe
+"Indira Nagar, Raebareli - NTPC Unchahar",1,83.0,83.0,Poor
+"Indirapuram, Ghaziabad - UPPCB",1,38.0,38.0,Good
+"Indra Nagar, Jhunjhunu - RSPCB",1,48.0,48.0,Moderate
+"Industrial Area, Hajipur - BSPCB",1,62.0,62.0,Moderate
+"JNU, Delhi - DPCC",1,56.0,56.0,Moderate
+"Jadavpur, Kolkata - WBPCB",1,64.0,64.0,Poor
+"Jagamohanpur, Keonjhar - OSPCB",1,42.0,42.0,Good
+"Jahangirpuri, Delhi - DPCC",1,48.0,48.0,Moderate
+"Jai Bhim Nagar, Meerut - UPPCB",1,21.0,21.0,Good
+"Jawahar Nagar, Puducherry - PPCC",1,35.0,35.0,Good
+"Jawaharlal Nehru Stadium, Delhi - DPCC",1,76.0,76.0,Poor
+"Jayanagar 5th Block, Bengaluru - KSPCB",1,49.0,49.0,Moderate
+"Jhalamand, Jodhpur - RSPCB",1,64.0,64.0,Poor
+"Jhunsi, Prayagraj - UPPCB",1,36.0,36.0,Good
+"Jigani, Bengaluru - KSPCB",1,78.0,78.0,Poor
+"Jigar Colony, Moradabad - UPPCB",1,67.0,67.0,Poor
+"KHB Colony, Karwar - KSPCB",1,16.0,16.0,Good
+"Kalabhavan, Dharwad - KSPCB",1,72.0,72.0,Poor
+"Kalal Majra, Khanna - PPCB",1,78.0,78.0,Poor
+"Kalidaspur, Balasore - OSPCB",1,77.0,77.0,Poor
+"Kalindi Kunj, Khurja - UPPCB",1,35.0,35.0,Good
+"Kalu Nagar, Dombivli - MPCB",1,34.0,34.0,Good
+"Kalyana Nagara, Chikkamagaluru - KSPCB",1,24.0,24.0,Good
+"Kamalnath Nagar, Bettiah - BSPCB",1,32.0,32.0,Good
+"Kamble Tarf Birwadi, Mahad - MPCB",1,39.0,39.0,Good
+"Kandivali West, Mumbai - BMC",1,31.0,31.0,Good
+"Kareemganj, Gaya - BSPCB",1,105.0,105.0,Severe
+"Kariavattom, Thiruvananthapuram - Kerala PCB",1,74.0,74.0,Poor
+"Karni Colony, Nagaur - RSPCB",1,92.0,92.0,Severe
+"Kasarvadavali, Thane - MPCB",1,52.0,52.0,Moderate
+"Kashiram Nagar, Moradabad - UPPCB",1,40.0,40.0,Good
+"Katargam, Surat - Nexteng Enviro",1,63.0,63.0,Moderate
+"Katraj Dairy, Pune - MPCB",1,46.0,46.0,Moderate
+"Katrap, Badlapur - MPCB",1,34.0,34.0,Good
+"Kendriya Vidyalaya, Lucknow - CPCB",1,74.0,74.0,Poor
+"Khaira, Boisar - MPCB",1,38.0,38.0,Good
+"Kharahiya Basti, Araria - BSPCB",1,61.0,61.0,Moderate
+"Khatikan Mohalla, Dausa - RSPCB",1,36.0,36.0,Good
+"Kherwadi_Bandra East, Mumbai - MPCB",1,55.0,55.0,Moderate
+"Khindipada-Bhandup West, Mumbai - IITM",1,29.0,29.0,Good
+"Khrew, Pampore - JKPCC",1,56.0,56.0,Moderate
+"Khunmoh, Srinagar - JKPCC",1,57.0,57.0,Moderate
+"Knowledge Park - III, Greater Noida - UPPCB",1,49.0,49.0,Moderate
+"Knowledge Park - V, Greater Noida - UPPCB",1,107.0,107.0,Severe
+"Kodungaiyur, Chennai - TNPCB",1,32.0,32.0,Good
+"Kokapet, Hyderabad - TSPCB",1,53.0,53.0,Moderate
+"Kompally Municipal Office, Hyderabad - TSPCB",1,58.0,58.0,Moderate
+"Kopripada-Vashi, Navi Mumbai - MPCB",1,51.0,51.0,Moderate
+"Koyana Nagar, Satara - MPCB",1,70.0,70.0,Poor
+"Krishak Nagar, Raipur - CECB",1,22.0,22.0,Good
+"Krishna Nagar, Bharatpur - RSPCB",1,40.0,40.0,Good
+"Kudikadu, Cuddalore - TNPCB",1,24.0,24.0,Good
+"Kukrail Picnic Spot-1, Lucknow - UPPCB",1,50.0,50.0,Moderate
+"Kurla, Mumbai - MPCB",1,29.0,29.0,Good
+"LGBI Airport, Guwahati - PCBA",1,35.0,35.0,Good
+"Lalbagh, Lucknow - CPCB",1,57.0,57.0,Moderate
+"Lingaraj Nagar, Hubballi - KSPCB",1,49.0,49.0,Moderate
+"Lingraj Mandir, Bhubaneswar - OSPCB",1,71.0,71.0,Poor
+"Lohiyanagar, Begusarai - BSPCB",1,139.0,139.0,Severe
+"Loni, Ghaziabad - UPPCB",1,48.0,48.0,Moderate
+"Lumpyngngad, Shillong - Meghalaya PCB",1,31.0,31.0,Good
+"MD University, Rohtak - HSPCB",1,35.0,35.0,Good
+"MIDC Ambad, Nashik - MPCB",1,43.0,43.0,Good
+"MIDC Chilkalthana, Aurangabad - MPCB",1,42.0,42.0,Good
+"MIDC Khutala, Chandrapur - MPCB",1,75.0,75.0,Poor
+"MIET College, Meerut - UPPCB",1,50.0,50.0,Moderate
+"MIT-Daudpur Kothi, Muzaffarpur - BSPCB",1,48.0,48.0,Moderate
+"MM Ground, Bikaner - RSPCB",1,100.0,100.0,Severe
+"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",1,129.0,129.0,Severe
+"Maguda Nagar, Indore - IMC",1,31.0,31.0,Good
+"Mahabir Colliery, Asansol - WBPCB",1,41.0,41.0,Good
+"Mahal, Nagpur - MPCB",1,49.0,49.0,Moderate
+"Mahape, Navi Mumbai - MPCB",1,75.0,75.0,Poor
+"Maharaj Bada, Gwalior - MPPCB",1,79.0,79.0,Poor
+"Mahashweta Nagar, Ujjain - MPPCB",1,47.0,47.0,Moderate
+"Mahatma Basaveswar Colony, Kalaburgi - KSPCB",1,37.0,37.0,Good
+"Mahesh Nagar, Malegaon - MPCB",1,85.0,85.0,Poor
+"Mahishkapur Road_B-Zone, Durgapur - WBPCB",1,71.0,71.0,Poor
+"Major Dhyan Chand National Stadium, Delhi - DPCC",1,61.0,61.0,Moderate
+"Malad West, Mumbai - IITM",1,35.0,35.0,Good
+"Maldahiya, Varanasi - UPPCB",1,76.0,76.0,Poor
+"Manali Village, Chennai - TNPCB",1,47.0,47.0,Moderate
+"Manali, Chennai - CPCB",1,42.0,42.0,Good
+"Mandir Marg, Delhi - DPCC",1,63.0,63.0,Moderate
+"Mandor, Jodhpur - RSPCB",1,63.0,63.0,Moderate
+"Mangala, Bilaspur - NTPC",1,48.0,48.0,Moderate
+"Maninagar, Ahmedabad - GPCB",1,85.0,85.0,Poor
+"Manoharpur, Agra - UPPCB",1,88.0,88.0,Poor
+"Mansarovar Sector-12, Jaipur - RSPCB",1,36.0,36.0,Good
+"Marhatal, Jabalpur - MPPCB",1,55.0,55.0,Moderate
+"Mariam Nagar, Purnia - BSPCB",1,56.0,56.0,Moderate
+"Masoom Colony, Parbhani - MPCB",1,34.0,34.0,Good
+"Mavdi, Rajkot - Nexteng Enviro",1,43.0,43.0,Good
+"Mayaganj, Bhagalpur - BSPCB",1,127.0,127.0,Severe
+"Mazgaon, Mumbai - IITM",1,64.0,64.0,Poor
+"Meelavittan, Thoothukudi - TNPCB",1,65.0,65.0,Poor
+"Meher Colony, Baripada - OSPCB",1,46.0,46.0,Moderate
+"Mhada Colony, Pune - IITM",1,69.0,69.0,Poor
+"Mindspace-Malad West, Mumbai - MPCB",1,40.0,40.0,Good
+"Mini Secretariat, Charkhi Dadri - HSPCB",1,54.0,54.0,Moderate
+"Mirchaibari, Katihar - BSPCB",1,74.0,74.0,Poor
+"Model Town, Patiala - PPCB",1,39.0,39.0,Good
+"More Chowk Waluj, Aurangabad - MPCB",1,39.0,39.0,Good
+"Moti Doongri, Alwar - RSPCB",1,91.0,91.0,Severe
+"Motilal Nehru NIT, Prayagraj - UPPCB",1,33.0,33.0,Good
+"Mudtra Sili, Jalore - RSPCB",1,69.0,69.0,Poor
+"Mulund West, Mumbai - MPCB",1,24.0,24.0,Good
+"Mundka, Delhi - DPCC",1,74.0,74.0,Poor
+"Municipal Corporation Office, Dharuhera -  HSPCB",1,69.0,69.0,Poor
+"Muradpur, Patna - BSPCB",1,70.0,70.0,Poor
+"Murthal, Sonipat - HSPCB",1,79.0,79.0,Poor
+"NISE Gwal Pahari, Gurugram - IITM",1,40.0,40.0,Good
+"NSI Kalyanpur, Kanpur - UPPCB",1,53.0,53.0,Moderate
+"NSIT Dwarka, Delhi - CPCB",1,40.0,40.0,Good
+"NSUT Jaffarpur, Delhi - DPCC",1,52.0,52.0,Moderate
+"Nacharam_TSIIC IALA, Hyderabad - TSPCB",1,69.0,69.0,Poor
+"Nagar Nigam, Prayagraj - UPPCB",1,91.0,91.0,Severe
+"Nagla Bhau, Firozabad - UPPCB",1,35.0,35.0,Good
+"Naharlagun, Naharlagun - APSPCB",1,27.0,27.0,Good
+"Najafgarh, Delhi - DPCC",1,27.0,27.0,Good
+"Narela, Delhi - DPCC",1,61.0,61.0,Moderate
+"Nathu Colony, Ballabgarh - HSPCB",1,76.0,76.0,Poor
+"Navy Nagar-Colaba, Mumbai - IITM",1,38.0,38.0,Good
+"Nawapara SECL Colony, Chhal - CECB",1,71.0,71.0,Poor
+"Nayapura, Kota - RSPCB",1,55.0,55.0,Moderate
+"Nehru Nagar, Delhi - DPCC",1,57.0,57.0,Moderate
+"Nehru Nagar, Kanpur - UPPCB",1,50.0,50.0,Moderate
+"New Anaj Mandi, Khairthal - RSPCB",1,141.0,141.0,Severe
+"New Colony, Bundi - RSPCB",1,49.0,49.0,Moderate
+"New DM Office, Arrah - BSPCB",1,57.0,57.0,Moderate
+"New Industrial Town, Faridabad - HSPCB",1,80.0,80.0,Poor
+"New Malakpet, Hyderabad - TSPCB",1,53.0,53.0,Moderate
+"New Mandi, Muzaffarnagar - UPPCB",1,41.0,41.0,Good
+"New Tehsil, Shamli - UPPCB",1,53.0,53.0,Moderate
+"North Campus, DU, Delhi - IITM",1,115.0,115.0,Severe
+"OP Jindal Industrial Park, Tumidih - CECB",1,54.0,54.0,Moderate
+"OP Jindal School, Kunjemura - CECB",1,54.0,54.0,Moderate
+"Okhla Phase-2, Delhi - DPCC",1,78.0,78.0,Poor
+"Old City, Sri Ganganagar - RSPCB",1,55.0,55.0,Moderate
+"Old MIDC, Jalna - MPCB",1,84.0,84.0,Poor
+"Omex Eternity, Vrindavan - UPPCB",1,31.0,31.0,Good
+"Opp GPO Civil Lines, Nagpur - MPCB",1,37.0,37.0,Good
+"PCBL Residential Complex, Durgapur - WBPCB",1,57.0,57.0,Moderate
+"PWD Junction, Kohima - NPCB",1,60.0,60.0,Moderate
+"Padmapukur, Howrah - WBPCB",1,103.0,103.0,Severe
+"Pali Dungra, Mathura - UPPCB",1,49.0,49.0,Moderate
+"Pallavpuram Phase 2, Meerut - UPPCB",1,47.0,47.0,Moderate
+"Pan Bazaar, Guwahati - PCBA",1,20.0,20.0,Good
+"Panchal Nagar, Gadag - KSPCB",1,80.0,80.0,Poor
+"Panchawati_Pashan, Pune - IITM",1,51.0,51.0,Moderate
+"Pandav Nagari, Nashik - MPCB",1,25.0,25.0,Good
+"Park Street Wakad, Pimpri Chinchwad - MPCB",1,41.0,41.0,Good
+"Paryavaran Parisar, Bhopal - MPPCB",1,37.0,37.0,Good
+"Patia, Bhubaneswar - OSPCB",1,56.0,56.0,Moderate
+"Patparganj, Delhi - DPCC",1,51.0,51.0,Moderate
+"Patti Mehar, Ambala - HSPCB",1,86.0,86.0,Poor
+"Peenya, Bengaluru - CPCB",1,77.0,77.0,Poor
+"Perungudi, Chennai - TNPCB",1,174.0,174.0,Severe
+"Phase-1 GIDC, Vapi - GPCB",1,39.0,39.0,Good
+"Phase-4 GIDC, Vatva - GPCB",1,103.0,103.0,Severe
+"Pimpleshwar Mandir, Kalyan - MPCB",1,60.0,60.0,Moderate
+"Plammoodu, Thiruvananthapuram - Kerala PCB",1,30.0,30.0,Good
+"Police Commissionerate, Jaipur - RSPCB",1,52.0,52.0,Moderate
+"Police Line, Saharsa - BSPCB",1,59.0,59.0,Moderate
+"Police Lines, Jind - HSPCB",1,91.0,91.0,Severe
+"Powai, Mumbai - MPCB",1,12.0,12.0,Good
+"Prabhat Colony, Jalgaon - MPCB",1,37.0,37.0,Good
+"Pragati Nagar, Pratapgarh - RSPCB",1,56.0,56.0,Moderate
+"Prashant Garden, Khora - UPPCB",1,85.0,85.0,Poor
+"Pratap Nagar, Bhilwara - RSPCB",1,70.0,70.0,Poor
+"Priyambada Housing Estate, Haldia - WBPCB",1,49.0,49.0,Moderate
+"Punjabi Bagh, Delhi - DPCC",1,53.0,53.0,Moderate
+"Pusa, Delhi - DPCC",1,82.0,82.0,Poor
+"Pusa, Delhi - IITM",1,67.0,67.0,Poor
+"R K Puram, Delhi - DPCC",1,55.0,55.0,Moderate
+"RIICO Ind. Area III, Bhiwadi - RSPCB",1,106.0,106.0,Severe
+"RIICO Sitapura, Jaipur - RSPCB",1,52.0,52.0,Moderate
+"RIMT University, Mandi Gobindgarh - PPCB",1,84.0,84.0,Poor
+"Rabindra Bharati University, Kolkata - WBPCB",1,76.0,76.0,Poor
+"Rabindra Sarobar, Kolkata - WBPCB",1,32.0,32.0,Good
+"Rachnakar Colony, Aurangabad - MPCB",1,44.0,44.0,Moderate
+"Radhakishan Pura, Sikar - RSPCB",1,99.0,99.0,Severe
+"Raghunathpali, Rourkela - OSPCB",1,76.0,76.0,Poor
+"Raikhad, Ahmedabad - IITM",1,71.0,71.0,Poor
+"Railway Colony, Barmer - RSPCB",1,68.0,68.0,Poor
+"Railway Colony, Guwahati - PCBA",1,43.0,43.0,Good
+"Raja Ganj, Dholpur - RSPCB",1,24.0,24.0,Good
+"Rajanpur, Gajraula - UPPCB",1,62.0,62.0,Moderate
+"Rajbagh, Srinagar - JKPCC",1,35.0,35.0,Good
+"Rajbansi Nagar, Patna - BSPCB",1,44.0,44.0,Moderate
+"Rajendra Nagar North, Guntur - APPCB",1,60.0,60.0,Moderate
+"Rajendra Nagar, Bareilly - UPPCB",1,42.0,42.0,Good
+"Rajiv Gandhi Park, Vijayawada - APPCB",1,65.0,65.0,Poor
+"Rajiv Nagar, Vijayawada - APPCB",1,60.0,60.0,Moderate
+"Rajlaxmi Nagar, Jhalawar - RSPCB",1,48.0,48.0,Moderate
+"Rakhial, Ahmedabad - IITM",1,75.0,75.0,Poor
+"Ram Nagar, Nagpur - MPCB",1,46.0,46.0,Moderate
+"Rama Rao Peta, Kakinada - APPCB",1,47.0,47.0,Moderate
+"Ramachandrapuram, Hyderabad - TSPCB",1,61.0,61.0,Moderate
+"Ramdaspeth, Akola - MPCB",1,30.0,30.0,Good
+"Rampur, Korba - CECB",1,25.0,25.0,Good
+"Ratandeep Housing Society, Solapur - MPCB",1,41.0,41.0,Good
+"Ratanpura, Rupnagar - Ambuja Cements",1,56.0,56.0,Moderate
+"Rati Talai, Banswara - RSPCB",1,67.0,67.0,Poor
+"Regional Park, Indore - IMC",1,48.0,48.0,Moderate
+"Residency Area, Indore - IMC",1,37.0,37.0,Good
+"Revenue Colony-Shivajinagar, Pune - IITM",1,70.0,70.0,Poor
+"Rishi Nagar, Kaithal - HSPCB",1,99.0,99.0,Severe
+"Rohini, Delhi - DPCC",1,65.0,65.0,Poor
+"Rohta, Agra - UPPCB",1,34.0,34.0,Good
+"Royapuram, Chennai - TNPCB",1,61.0,61.0,Moderate
+"SAC ISRO Bopal, Ahmedabad - IITM",1,51.0,51.0,Moderate
+"SAC ISRO Satellite, Ahmedabad - IITM",1,65.0,65.0,Poor
+"SDM Office_Khagra, Kishanganj - BSPCB",1,51.0,51.0,Moderate
+"SFTI Kusdihra, Gaya - BSPCB",1,37.0,37.0,Good
+"SIDCO Kurichi, Coimbatore - TNPCB",1,42.0,42.0,Good
+"SRM University, Modinagar - UPPCB",1,19.0,19.0,Good
+"SVPI Airport Hansol, Ahmedabad - IITM",1,96.0,96.0,Severe
+"SVSPA Campus, Barrackpore - WBPCB",1,68.0,68.0,Poor
+"Sadanand Nagar, Mehsana - Nexteng Enviro",1,53.0,53.0,Moderate
+"Sadar Bazar, Jaisalmer - RSPCB",1,73.0,73.0,Poor
+"Sahilara, Maihar - KJS Cements",1,59.0,59.0,Moderate
+"Sahu Nagar, Sawai Madhopur - RSPCB",1,47.0,47.0,Moderate
+"Samanpura, Patna - BSPCB",1,134.0,134.0,Severe
+"Samrat Ashok Udhyan, Jodhpur - RSPCB",1,58.0,58.0,Moderate
+"Sanathnagar, Hyderabad - TSPCB",1,80.0,80.0,Poor
+"Sanjay Nagar, Ghaziabad - UPPCB",1,35.0,35.0,Good
+"Sanjay Palace, Agra - UPPCB",1,57.0,57.0,Moderate
+"Sanpada, Navi Mumbai - MPCB",1,38.0,38.0,Good
+"Sardar Patel Inter College, Baghpat - UPPCB",1,33.0,33.0,Good
+"Sardar Patel Nagar, Dhanbad - JSPCB",1,103.0,103.0,Severe
+"Satyawati Vihar, Karauli - RSPCB",1,38.0,38.0,Good
+"Savitribai Phule Pune University, Pune - MPCB",1,40.0,40.0,Good
+"Savta Mali Nagar, Pimpri-Chinchwad - IITM",1,57.0,57.0,Moderate
+"Sawe Wadi, Latur - MPCB",1,36.0,36.0,Good
+"Science Center, Surat - SMC",1,40.0,40.0,Good
+"Secretariat, Amaravati - APPCB",1,61.0,61.0,Moderate
+"Sector - 125, Noida - UPPCB",1,39.0,39.0,Good
+"Sector - 62, Noida - IITM",1,36.0,36.0,Good
+"Sector 11, Faridabad - HSPCB",1,61.0,61.0,Moderate
+"Sector 22, Chandigarh - CPCC",1,35.0,35.0,Good
+"Sector 30, Faridabad - HSPCB",1,116.0,116.0,Severe
+"Sector-1, Noida - UPPCB",1,35.0,35.0,Good
+"Sector-10, Gandhinagar - GPCB",1,15.0,15.0,Good
+"Sector-116, Noida - UPPCB",1,96.0,96.0,Severe
+"Sector-12, Karnal - HSPCB",1,51.0,51.0,Moderate
+"Sector-18, Panipat - HSPCB",1,101.0,101.0,Severe
+"Sector-2 IMT, Manesar - HSPCB",1,30.0,30.0,Good
+"Sector-2 Industrial Area, Pithampur - MPPCB",1,75.0,75.0,Poor
+"Sector-2 Murlipura, Jaipur - RSPCB",1,34.0,34.0,Good
+"Sector-2, Rourkela - OSPCB",1,48.0,48.0,Moderate
+"Sector-25, Chandigarh - CPCC",1,37.0,37.0,Good
+"Sector-2E Kalamboli, Navi Mumbai - MPCB",1,35.0,35.0,Good
+"Sector-3B Avas Vikas Colony, Agra - UPPCB",1,42.0,42.0,Good
+"Sector-51, Gurugram - HSPCB",1,59.0,59.0,Moderate
+"Sector-53, Chandigarh - CPCC",1,32.0,32.0,Good
+"Sector-6, Panchkula - HSPCB",1,50.0,50.0,Moderate
+"Sector-7, Kurukshetra - HSPCB",1,60.0,60.0,Moderate
+"Sector-D Industrial Area, Mandideep - MPPCB",1,54.0,54.0,Moderate
+"Semmandalam, Cuddalore - TNPCB",1,493.0,493.0,Severe
+"Sewri, Mumbai - BMC",1,41.0,41.0,Good
+"Shadipur, Delhi - CPCB",1,58.0,58.0,Moderate
+"Shahjahan Garden, Agra - UPPCB",1,57.0,57.0,Moderate
+"Shasthri Nagar, Ratlam - IPCA Lab",1,45.0,45.0,Moderate
+"Shastri Nagar, Chittorgarh - RSPCB",1,58.0,58.0,Moderate
+"Shastri Nagar, Jaipur - RSPCB",1,69.0,69.0,Poor
+"Shastri Nagar, Narnaul - HSPCB",1,69.0,69.0,Poor
+"Shastri Nagar, Tonk - RSPCB",1,101.0,101.0,Severe
+"Shastripuram, Agra - UPPCB",1,57.0,57.0,Moderate
+"Shivaji Nagar, Jhansi - UPPCB",1,34.0,34.0,Good
+"Shivaji Nagar, Mumbai - BMC",1,83.0,83.0,Poor
+"Shivaji Nagar, Rishikesh - UKPCB",1,37.0,37.0,Good
+"Shivaji University, Kolhapur - MPCB",1,32.0,32.0,Good
+"Shivapura_Peenya, Bengaluru - KSPCB",1,40.0,40.0,Good
+"Shivneri Colony, Amravati - MPCB",1,27.0,27.0,Good
+"Shri Shivaji Science College, Amravati - MPCB",1,32.0,32.0,Good
+"Shrinath Puram, Kota - RSPCB",1,54.0,54.0,Moderate
+"Shrivastav Colony, Damoh - MPPCB",1,50.0,50.0,Moderate
+"Shyam Nagar, Palwal - HSPCB",1,53.0,53.0,Moderate
+"Siddharth Nagar-Worli, Mumbai - IITM",1,27.0,27.0,Good
+"Sidhi Vinayak Nagar, Ulhasnagar - MPCB",1,48.0,48.0,Moderate
+"Sikulpuikawn, Aizawl - Mizoram PCB",1,3.0,3.0,Good
+"Silk Board, Bengaluru - KSPCB",1,123.0,123.0,Severe
+"Siltara Phase-II, Raipur - CECB",1,56.0,56.0,Moderate
+"Sinchan Bhavan, Kolhapur - MPCB",1,23.0,23.0,Good
+"Sion, Mumbai - MPCB",1,146.0,146.0,Severe
+"Sirifort, Delhi - CPCB",1,57.0,57.0,Moderate
+"Sita Rama Nagar, Kurnool - APPCB",1,41.0,41.0,Good
+"Sneh Nagar, Nanded - MPCB",1,39.0,39.0,Good
+"Somajiguda, Hyderabad - TSPCB",1,84.0,84.0,Poor
+"Sonia Vihar, Delhi - DPCC",1,71.0,71.0,Poor
+"Sri Aurobindo Marg, Delhi - DPCC",1,48.0,48.0,Moderate
+"Srinivas Nagar Colony, Machilipatnam - APPCB",1,55.0,55.0,Moderate
+"Stuart Hill, Madikeri - KSPCB",1,23.0,23.0,Good
+"Subash Chowk, Churu - RSPCB",1,79.0,79.0,Poor
+"Suhagi, Jabalpur - JMC",1,44.0,44.0,Moderate
+"T T Nagar, Bhopal - MPPCB",1,35.0,35.0,Good
+"Talcher Coalfields,Talcher - OSPCB",1,79.0,79.0,Poor
+"Talkatora District Industries Center, Lucknow - CPCB",1,74.0,74.0,Poor
+"Talkatora Garden, Delhi - DPCC",1,67.0,67.0,Poor
+"Tarakpur, Ahmednagar - MPCB",1,50.0,50.0,Moderate
+"Tarapur, Silchar - PCBA",1,50.0,50.0,Moderate
+"Tata Stadium, Jorapokhar - JSPCB",1,82.0,82.0,Poor
+"Tata Township, Bileipada - OSPCB",1,107.0,107.0,Severe
+"Teri Gram, Gurugram - HSPCB",1,118.0,118.0,Severe
+"Thavakkara, Kannur - Kerala PCB",1,78.0,78.0,Poor
+"Thergaon, Pimpri Chinchwad - MPCB",1,60.0,60.0,Moderate
+"Toll Gate, Tirumala - APPCB",1,49.0,49.0,Moderate
+"Tondare-Taloja, Navi Mumbai - MPCB",1,45.0,45.0,Moderate
+"Town Hall, Munger - BSPCB",1,129.0,129.0,Severe
+"Transport Nagar, Moradabad - UPPCB",1,61.0,61.0,Moderate
+"Transport Nagar-Nigdi, Pune - IITM",1,65.0,65.0,Poor
+"Trivenidevi Bhalotia College, Asansol - WBPCB",1,39.0,39.0,Good
+"Udyogamandal, Eloor - Kerala PCB",1,56.0,56.0,Moderate
+"Upvan Fort, Thane - MPCB",1,26.0,26.0,Good
+"Urban Estate-II, Hisar - HSPCB",1,131.0,131.0,Severe
+"Urban, Chamarajanagar - KSPCB",1,44.0,44.0,Moderate
+"Urja Nagar, Korba - CECB",1,34.0,34.0,Good
+"Vaikuntapuram, Tirupati - APPCB",1,76.0,76.0,Poor
+"Vasundhara Nagar_UIT, Bhiwadi - RSPCB",1,78.0,78.0,Poor
+"Vasundhara, Ghaziabad - UPPCB",1,50.0,50.0,Moderate
+"Ved Vihar-Loni, Ghaziabad - UPPCB",1,88.0,88.0,Poor
+"Vedhaynath Colony, Sirohi - RSPCB",1,61.0,61.0,Moderate
+"Velachery Res. Area, Chennai - CPCB",1,97.0,97.0,Severe
+"Vibhab Nagar, Firozabad - UPPCB",1,63.0,63.0,Moderate
+"Victoria, Kolkata - WBPCB",1,48.0,48.0,Moderate
+"Vidhyanagar, Bhavnagar - Nexteng Enviro",1,63.0,63.0,Moderate
+"Vigyan Nagar, Alwar - RSPCB",1,68.0,68.0,Poor
+"Vijay Nagar, Ramanagara - KSPCB",1,29.0,29.0,Good
+"Vijay Nagar, Sangli - MPCB",1,39.0,39.0,Good
+"Vinoba Nagara, Shivamogga - KSPCB",1,57.0,57.0,Moderate
+"Vithalwadi, Ulhasnagar - MPCB",1,33.0,33.0,Good
+"Vivek Vihar, Delhi - DPCC",1,75.0,75.0,Poor
+"Ward-32 Bapupara, Siliguri - WBPCB",1,32.0,32.0,Good
+"Wave City, Ghaziabad - UPPCB",1,79.0,79.0,Poor
+"Wazirpur, Delhi - DPCC",1,67.0,67.0,Poor
+"Womens College_City Center, Durgapur - WBPCB",1,68.0,68.0,Poor
+"Worli, Mumbai - MPCB",1,45.0,45.0,Moderate
+"Yamunapuram, Bulandshahr - UPPCB",1,35.0,35.0,Good
+"Yerramukkapalli, Kadapa - APPCB",1,69.0,69.0,Poor
+"Zero Point GICI, Gangtok - SSPCB",1,8.0,8.0,Good
+"Zoo Park, Hyderabad - TSPCB",1,40.0,40.0,Good
